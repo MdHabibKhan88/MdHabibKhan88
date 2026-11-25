@@ -18,12 +18,14 @@ Hello! I'm **MD. Habib Khan**, a Computer Science and Engineering student at **K
 
 I am passionate about software development, data analysis, and artificial intelligence. I enjoy learning new technologies and building practical projects to improve my skills.
 
-- 🎓 CSE Student at KYAU
-- 💻 Interested in Full-Stack Web Development
-- 📊 Aspiring Data Analyst
-- 🤖 Interested in AI and Machine Learning
-- 🌱 Always learning and improving my skills
-- 📍 Sirajganj, Rajshahi, Bangladesh
+- 🎓 CSE Student at KYAU.
+- 📊 Aspiring Data Analyst.
+- 💻 Developing applications using PHP, Laravel, and JavaScript.
+- 💻 Interested in Full-Stack Web Development.
+- 🤖 Interested in AI and Machine Learning.
+- 🔌 Interested in IoT and Embedded Systems.
+- 🌱 Always learning and improving my skills.
+- 📍 Sirajganj, Rajshahi, Dhaka, Bangladesh.
 
 ---
 
