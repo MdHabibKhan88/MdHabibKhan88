@@ -68,7 +68,7 @@ A platform for managing food donations and reducing food waste.
 
 **Technologies:** Laravel, PHP, MySQL
 
-[View Project](MdHabibKhan88KYAF-Food-Donation-Management-System)
+[View Project](https://github.com/MdHabibKhan88/KYAF-Food-Donation-Management-System)
 
 [Visit Website](https://kyaf-food-donation-management-system.onrender.com)
 
