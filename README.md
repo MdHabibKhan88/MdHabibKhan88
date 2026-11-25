@@ -33,12 +33,12 @@ I am passionate about software development, data analysis, and artificial intell
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js" />
 </p>
 
 ### Frameworks & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=laravel,react" />
 </p>
 
 ### Database & Tools
@@ -57,19 +57,27 @@ I am passionate about software development, data analysis, and artificial intell
 ## 🚀 Featured Projects
 
 ### 🫁 Pneumonia Detection System
-AI-based pneumonia detection project using chest X-ray images.
+AI-based pneumonia detection using chest X-ray images.
 
-**Technologies:** Python, Deep Learning, Machine Learning
+**Technologies:** Python, Deep Learning
 
-### 🍱 Food Donation Management System
-A web-based platform designed to manage food donations and reduce food waste.
+[View Project](https://github.com/MdHabibKhan88/pneumonia-detection)
+
+### 🍱 KYAF Food Donation Management System
+A platform for managing food donations and reducing food waste.
 
 **Technologies:** Laravel, PHP, MySQL
 
-### 🌐 Personal Portfolio
-A personal portfolio website to showcase my profile, skills, and projects.
+### 🎓 Student Registration Project
+A web-based student registration application.
 
-**Technologies:** HTML, CSS, JavaScript
+[View Project](https://github.com/MdHabibKhan88/Student_Registration_Project)
+
+### 💻 Personal Portfolio Website
+My personal website to showcase my profile, skills and projects.
+
+[Visit Website](https://MdHabibKhan88.github.io)
+
 
 ---
 
@@ -87,18 +95,40 @@ A personal portfolio website to showcase my profile, skills, and projects.
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/MdHabibKhan88">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/habib-khan-6964a8427">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:mdhabibk760@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/MdHabibKhan88">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/habib-khan-6964a8427">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/s.k.habib.khan.3914">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/md.habib77.88">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Md-Khan-462">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+
 </p>
 
----
+<p align="center">
+  📧 Email: mdhabibk760@gmail.com
+</p>
+
 
 <div align="center">
 
